@@ -9,11 +9,11 @@ This is a companian package of a manuscript pending review with the title "Desig
 ## How to install
 First, you will need R package _devtools_. Run the following command in R, if you don't have devtools on your computer.
 ```R
-install.packages('devtools') # You don't need this line if you already have it on you computer
+install.packages('devtools') # You don't need this if you already have it
 ```
-Either one of the following method can be used to install and load lastSB package:
+Either one of the following method can be used to install and load _lastSB_:
 
-* Download the zip file of lastSB package from GitHub, unzip it to your working directory on your computer, and run the following commands in R,
+* Download the zip file of _lastSB_ from GitHub, unzip it to your working directory on your computer, and run the following commands in R,
 ```R
 devtools::install('lastSB')
 library(lastSB)
