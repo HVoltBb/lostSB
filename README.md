@@ -1,4 +1,4 @@
 # lastSB
-An R package of bycatch **L**oss **A**nalysi**S** **T**ools for **S**ea**B**irds in longline fisheries
+An R package of bycatch **l**oss **a**nalysi**s** **t**ools for **S**ea**B**irds in longline fisheries
 
 
