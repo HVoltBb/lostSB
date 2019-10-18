@@ -1,4 +1,4 @@
-# lastSB
+# lastSB [offline 10/18/2019]
 An R package of bycatch **l**oss **a**nalysi**s** **t**ools for **S**ea**B**irds in longline fisheries
 
 This is a companian package of a manuscript pending review with the title "Design and analysis of seabird bycatch loss in longline fisheries" by Can Zhou et al. The specifics of the statistical model are described in that manuscript, details of which will be provided here as soon as possible.
