@@ -35,3 +35,10 @@ This dataset was extracted using Adobe Acrobat XI from a PDF of the report prepa
 * Brothers, N., et al. 2010. Seabird bycatch in pelagic longline fisheries is grossly underestimated when using only haul data. PLoS ONE 5(8): e12491
 * Brothers, N. 2008. How accurate are observer reported kills of albatrosses on longlines? Final report. Duke University & Blue Ocean Institute.
 
+If there is any questions to me, contact me at eiDOTog@gmail.com
+
+Thanks,
+
+Can Zhou
+
+10/18/2019
