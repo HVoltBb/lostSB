@@ -1,5 +1,5 @@
-# lastSB [offline 10/18/2019]
-An R package of bycatch **l**oss **a**nalysi**s** **t**ools for **S**ea**B**irds in longline fisheries
+# lostSB [offline 10/18/2019]
+An R package of bycatch **lo**ss analysi**s** **t**ools for **S**ea**B**irds in longline fisheries
 
 This is a companian package of a manuscript pending review with the title "Design and analysis of seabird bycatch loss in longline fisheries" by Can Zhou et al. The specifics of the statistical model are described in that manuscript, details of which will be provided here as soon as possible.
 
@@ -11,17 +11,17 @@ First, you will need R package _devtools_. Run the following command in R, if yo
 ```R
 install.packages('devtools') # You don't need this if you already have it
 ```
-Either one of the following method can be used to install and load _lastSB_:
+Either one of the following method can be used to install and load _lostSB_:
 
-* Download the zip file of _lastSB_ from GitHub, unzip it to your working directory on your computer, and run the following commands in R,
+* Download the zip file of _lostSB_ from GitHub, unzip it to your working directory on your computer, and run the following commands in R,
 ```R
-devtools::install('lastSB')
-library(lastSB)
+devtools::install('lostSB')
+library(lostSB)
 ```
 * For this method, you don't need to download anything manually, but a live internet connection at the time of installation. Just run the following two lines of code and you are all set,
 ```R
-devtools::install_github("HVoltBb/lastSB")
-library(lastSB)
+devtools::install_github("HVoltBb/lostSB")
+library(lostSB)
 ```
 
 The functionality of this package depends on JAGS 4.X.X, which can be downloaded at <http://mcmc-jags.sourceforge.net>.
