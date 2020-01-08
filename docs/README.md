@@ -1,3 +1,8 @@
+---
+layout:post
+fbcomments:yes
+---
+
 # lostSB [offline 10/18/2019]
 An R package of bycatch **lo**ss analysi**s** **t**ools for **S**ea**B**irds interacting with longline fisheries
 
