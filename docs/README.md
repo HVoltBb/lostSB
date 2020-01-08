@@ -1,6 +1,8 @@
 ---
-layout:post
-fbcomments:yes
+layout: post
+description: 
+author: canz
+fbcomments: yes
 ---
 
 # lostSB [offline 10/18/2019]
